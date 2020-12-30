@@ -1,0 +1,23 @@
+.container {
+	padding-top: 130px;
+}
+.list {
+	list-style-type: none;
+	padding: 10px;
+}
+li {
+	background-color: lightcyan;
+	border: 2px lightyellow;
+	color: purple;
+	font-size: medium;
+}
+
+li:hover {
+	background-color: rgb(138, 125, 125);
+}
+li:active {
+	background-color: rgb(37, 34, 34);
+}
+.add{	
+	background-color: lightslategray;
+}
